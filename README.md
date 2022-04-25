@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dineshkamatam
 - 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on React
+- 🌱 I’m currently angular and react 
+- 💞️ I’m looking to collaborate on angular and react
 - 📫 You can reach me at dineshkamtam25@gmail.com
 
 <!---
